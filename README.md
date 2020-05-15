@@ -55,6 +55,3 @@ Seed | Player | Turns
   42 |    1   |  31  
  999 |    2   |  33
 
-## Code Review
-
-You should have a code review by your professor or TA before turning in the assignment. See the Code Review Rubric document for expectations.
