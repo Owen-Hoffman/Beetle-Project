@@ -47,3 +47,6 @@ Seed | Player | Turns
   42 |    1   |  31  
  999 |    2   |  33
 
+## Source Code
+
+- [GitHub](https://github.com/Owen-Hoffman/Beetle-Project)
