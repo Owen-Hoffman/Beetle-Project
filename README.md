@@ -1,4 +1,4 @@
-## Beetle Dice Game
+# Beetle Dice Game
 
 This project is a simulation of the "Beetle" dice game.
 This project was created as part of Professor Fosters CPTR 142 class at Walla Walla University.
